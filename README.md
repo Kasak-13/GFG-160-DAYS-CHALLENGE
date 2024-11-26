@@ -25,6 +25,6 @@ The repository is organized as follows:
 
 🏆 Let’s Connect!  
 Feel free to connect with me to discuss solutions, share feedback, or collaborate on projects:  
-LinkedIn - www.linkedin.com/in/kasak-tolani-51b5212aa
+[LinkedIn](www.linkedin.com/in/kasak-tolani-51b5212aa) 
 
 Happy Coding! 🚀  
